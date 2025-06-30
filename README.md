@@ -18,7 +18,7 @@ A deep learning-based image classification project that detects the presence of 
 
 ├── brain_tumor_classifier.ipynb # Main code (Colab-compatible)
 ├── test_mri.jpg # Sample MRI image (optional)
-└── best_model.h5 # Trained model (external link)
+└── best_model.h5 # Trained model (hosted externally)
 
 yaml
 Copy
@@ -60,12 +60,13 @@ Early stopping + ModelCheckpoint
 Binary classification using sigmoid
 
 📥 Download Trained Model
-🔗 Download best_model.h5 via Google Drive
-(File too large for GitHub — hosted externally)
+🔗 Download best_model.h5
+(File is hosted on Google Drive due to GitHub file size limits)
 
 🙋‍♂️ About Me
 Anmol Sinha
 B.Tech CSE @ BML Munjal University
+Built with passion to explore real-world AI & medical applications
 LinkedIn | GitHub
 
 ⭐ Give a Star!
